@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 月光亲了城的个人博客
+title: 月光亲了城的个人博客啊
 subtitle: 诗酒田园 写我所写 
 description: 三千年读史，不外功名利禄；九万里悟道，终归诗酒田园。
 author: 月光亲了城
@@ -215,7 +215,7 @@ font:
   #LinkLabel: Link
 social:
     GitHub: https://github.com/ShixiangWang
-    简书: http://www.jianshu.com/u/b6608e27dc74
+    Zhihu: http://www.jianshu.com/u/b6608e27dc74
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
