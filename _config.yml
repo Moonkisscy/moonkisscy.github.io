@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 月光亲了城的个人博客啊
+title: 月光亲了城的个人博客
 subtitle: 诗酒田园 写我所写 
 description: 三千年读史，不外功名利禄；九万里悟道，终归诗酒田园。
 author: 月光亲了城
@@ -15,7 +15,7 @@ date_format: '%Y-%m-%d'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url:
-baseurl:
+#baseurl:
 permalink: pretty
 
 # Pagination
@@ -214,13 +214,9 @@ font:
 #social:
   #LinkLabel: Link
 social:
-<<<<<<< HEAD
     GitHub: https://github.com/ShixiangWang
-    Zhihu: http://www.jianshu.com/u/b6608e27dc74
-=======
-    GitHub: https://github.com/Moonkisscy
-    简书: http://www.jianshu.com/u/b6608e27dc74
->>>>>>> 251a5cc36a4b0e60e9897560e6fb717f627c15df
+    #Zhihu: http://www.jianshu.com/u/b6608e27dc74
+
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
