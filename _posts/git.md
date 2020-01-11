@@ -32,4 +32,20 @@ master (root-commit) afd5aa3] add a readme file
 git add 文件名
 git commit -m "你干了啥"
 ```
+20200111
+$ git push origin maste
+error: src refspec maste does not match any.
+error: failed to push some refs to 'https://github.com/Moonkisscy/moonkisscy.github.io.git'
 
+
+删除了里面的文件导致上传失败：
+$ git pull origin master
+From https://github.com/Moonkisscy/moonkisscy.github.io
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+解决：
+cy@cy-PC MINGW64 /d/GitHub/moonkisscy.github.io/_posts (master)
+$ git push -u origin master
+Everything up-to-date
+Branch 'master' set up to track remote branch 'master' from 'origin'.
