@@ -214,8 +214,13 @@ font:
 #social:
   #LinkLabel: Link
 social:
+<<<<<<< HEAD
     GitHub: https://github.com/ShixiangWang
     Zhihu: http://www.jianshu.com/u/b6608e27dc74
+=======
+    GitHub: https://github.com/Moonkisscy
+    简书: http://www.jianshu.com/u/b6608e27dc74
+>>>>>>> 251a5cc36a4b0e60e9897560e6fb717f627c15df
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -232,7 +237,7 @@ social_icons:
 
   
 # reward
-reward_comment: 人该是自己生活的主宰，而不是别人手里的行货
+reward_comment: 你的支持，是我最大的鼓励。
 alipay: /images/reward_image/alipay-reward-image.jpg
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
@@ -291,12 +296,9 @@ sidebar:
   #Title: http://example.com/
 links_title: 推荐阅读
 links:
-  阮一峰的网络日志: http://www.ruanyifeng.com/blog/archives.html
-  R的极客理想系列: http://blog.fens.me/series-r/
-  谢益辉: https://yihui.name/
-  解螺旋的矿工: http://www.huangshujia.me/
-  GuangchuangYu: https://github.com/GuangchuangYu
-  生信技能树: https://vip.biotrainee.com/
+  视觉SLAM知乎专栏: https://zhuanlan.zhihu.com/c_156926918
+  语义SLAM开源代码汇总: https://zhuanlan.zhihu.com/p/64825421
+
 
 # ---------------------------------------------------------------
 # Post Settings
